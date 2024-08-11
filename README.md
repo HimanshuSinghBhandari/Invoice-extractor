@@ -2,6 +2,9 @@
 
 Invoice Extractor is a web application that allows users to upload PDF invoices and extract key information using AI-powered text analysis. The app uses the Groq API with the LLaMa-70B model for accurate and efficient data extraction.
 
+![Invoice Extractor](./public/invoice.png)
+
+
 ## Features
 
 - PDF upload and text extraction
